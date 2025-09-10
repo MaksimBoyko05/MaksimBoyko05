@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maksimboyko05&show_icons=true&locale=en" alt="maksimboyko05" /></p>
+<p align="center">&nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksimBoyko05&show_icons=true&theme=radical)></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksimboyko05" alt="maksimboyko05" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
