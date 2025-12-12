@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=maksimboyko05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> <p>
-<img src="https://github-profile-trophy.vercel.app/?username=maksimboyko05&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"> </img>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maksimboyko05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=maksimboyko05&theme=onedark" alt="trophies" />
+  </a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maksimboyko05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maksimboyko05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</p>
